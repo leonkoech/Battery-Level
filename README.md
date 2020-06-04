@@ -10,10 +10,10 @@ It adds the platform-specific code inside the main app itself. ie ```MainActivit
 
 ## Contribution 
 
-Please read the [Contribution guide](#)
+Please read the [Contribution guide](https://github.com/leonkoech/Battery-Level/blob/master/contributions.md)
 
 ## License
 
-This project is under the [MIT](#) License.
+This project is under the [MIT](https://github.com/leonkoech/Battery-Level/blob/master/LICENSE) License.
 
 
