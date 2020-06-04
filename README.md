@@ -1,16 +1,5 @@
-# mytestapp
+# Battery Level
 
-A new Flutter project.
+A flutter app that calls a platform-specific API to retrieve and display the current battery level. It uses the Android BatteryManager API via a single platform message, ```getBatteryLevel()```. It adds the platform-specific code inside the main app itself. ie ```MainActivity.java```. The app’s State class holds the current app state. It is then extended to hold the current battery state via the ```MethodChannel```.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
