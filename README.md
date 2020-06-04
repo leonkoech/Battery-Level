@@ -8,7 +8,12 @@ It adds the platform-specific code inside the main app itself. ie ```MainActivit
 <img src="https://user-images.githubusercontent.com/39020723/83734527-cd014700-a657-11ea-9db3-84b2ef3167cd.png" width="35%">.
 <img src="https://user-images.githubusercontent.com/39020723/83734545-d25e9180-a657-11ea-98cf-82d15572fbcd.png" width="35%">.
 
+## Contribution 
+
+Please read the [Contribution guide](#)
+
 ## License
 
 This project is under the [MIT](#) License.
+
 
